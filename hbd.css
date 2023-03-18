@@ -1,0 +1,18 @@
+.hbd {
+    font-family: "Lucida Console", Courier, monospace;
+    margin-left: 2%;
+    font-size: 20px;
+    margin-top: 8%;
+    color: rgb(18, 15, 39);
+}
+body {
+    background-image: url('bg\ img.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+  }
+  .telugu {
+    position: absolute;
+    left: 27%;
+    top : 33%;
+  }
